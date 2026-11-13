@@ -1,0 +1,4 @@
+node_modules/
+used-words.json
+used-words.json.tmp
+.env
