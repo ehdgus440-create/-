@@ -1,0 +1,13 @@
+{
+  "name": "liar-royale-15",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3–15 player mobile Liar Royale party game",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
